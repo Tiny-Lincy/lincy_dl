@@ -5,3 +5,4 @@ This is a deep learning repository from lincy
 - a programer who want to create somthing interesting
 - a student who want to explore deepler in CS and AI
 - a girl who is grateful for everthing in her life 
+just a push try
